@@ -1,0 +1,7 @@
+Banking CNN Autoencoder Anomaly Detection
+Threshold: 0.001510
+Accuracy:  0.9967
+Precision: 0.9838
+Recall:    1.0000
+F1-score:  0.9918
+ROC-AUC:   1.0000
